@@ -33,6 +33,9 @@ description: Halo Mental Health (Halo Health) operates same-day mental health ur
   Halo Health publishes no public API or developer platform; this profile captures
   its identity, web presence, and domain security posture.
 url: https://raw.githubusercontent.com/api-evangelist/halo-health/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Halo Health publishes no public API or developer platform; this profile captures its identity, web presence, and domain security posture."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
